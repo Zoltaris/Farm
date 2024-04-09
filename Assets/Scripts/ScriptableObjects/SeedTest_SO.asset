@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcdd1276f6d456944a5ffe454519e2c7, type: 3}
+  m_Name: SeedTest_SO
+  m_EditorClassIdentifier: 
+  plant: {fileID: 5326433668204390482, guid: 8b72086fee5431e4894285bf922b6199, type: 3}
